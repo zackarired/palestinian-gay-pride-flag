@@ -9,6 +9,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs3" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:0.015"
+     id="rect4"
+     width="12"
+     height="8.5"
+     x="0"
+     y="0" />
   <g
      id="g1"
      style="opacity:0.75"
